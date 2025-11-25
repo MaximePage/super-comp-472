@@ -12,9 +12,9 @@ VGG11_CNN.ipynb <-- The file containing the python script for the VG11 CNN
 
 Using Anaconda Prompt, run the environment using:
 
-_conda activate cifar10
+_conda activate cifar10_
 
-jupyter notebook_
+_jupyter notebook_
 
 Then, inside Jupyter notebook, SHIFT-ENTER each cell except the ones denoted as training.
 The trained models have already been saved and must simply be loaded in and the metrics can be ran against those saved models.
