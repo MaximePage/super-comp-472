@@ -13,6 +13,7 @@ VGG11_CNN.ipynb <-- The file containing the python script for the VG11 CNN
 Using Anaconda Prompt, run the environment using:
 
 _conda activate cifar10
+
 jupyter notebook_
 
 Then, inside Jupyter notebook, SHIFT-ENTER each cell except the ones denoted as training.
